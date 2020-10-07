@@ -4,39 +4,10 @@ A csoport
     <sourch hacks=ctrl:45/>
     <link-DESKTOP-46274=ressiem:15:00/>
     <aut.-download:16:00/>
-    sf
-    dfg
-    g
-    g
-    g
-    g
-    g
-    g
-    g
-    g
-    g
-    g
-    g
-
-    gg
-    ggg
-    ggg
-    ggg
-    ggg
-    ggg
-    ggg
-    gg
-    gg
-
-    ggg
 
 
+    g
     gg
-    ggg
-
-    gg
-    ggg
-    ggg
     ggg
     gggg
     ggggg
@@ -116,11 +87,413 @@ A csoport
                      ggg ggggggggggggg
                     gggg gggggggggggg
                    gggggg gggggggggg
+                  gggggggg gggggggg
+                 gggggggggg gggggg
+                gggggggggggg gggg
+               ggggggggggggg ggg
+              gggggggggggggg gg
+             ggggggggggggggg g
+            gggggggggggggggg
+           gggggggggggggggg
+          gggggggggggggggg
+         gggggggggggggggg
+        gggggggggggggggg
+       gggggggggggggggg
+      gggggggggggggggg
+     gggggggggggggggg
+    gggggggggggggggg
+   gggggggggggggggg
+  gggggggggggggggg
+ gggggggggggggggg
+gggggggggggggggg
+gggggggggggggggg
+gggggggggggggggg
+gggggggggggggggg
+gggggggggggggggg
+gggggggggggggggg
+gggggggggggggggg
+gggggggggggggggg
+gggggggggggggggg
+gggggggggggggggg
+gggggggggggggggg
+gggggggggggggggg
+gggggggggggggggg
+gggggggggggggggg
+gggggggggggggggg
+gggggggggggggggg
+gggggggggggggggg
+gggggggggggggggg
+gggggggggggggggg
+gggggggggggggggg
+gggggggggggggggg
+ gggggggggggggggg
+  gggggggggggggggg
+   gggggggggggggggg
+    gggggggggggggggg
+     gggggggggggggggg
+      gggggggggggggggg
+       gggggggggggggggg
+        gggggggggggggggg
+         gggggggggggggggg
+          gggggggggggggggg
+           gggggggggggggggg
+            gggggggggggggggg
+             gggggggggggggggg
+              gggggggggggggggg
+               gggggggggggggggg
+                gggggggggggggggg
+                 gggggggggggggggg
+                  gggggggggggggggg
+                   gggggggggggggggg
+                    gggggggggggggggg
+                     gggggggggggggggg
+                      gggggggggggggggg
+                       gggggggggggggggg
+                        gggggggggggggggg
+                         gggggggggggggggg
+                          gggggggggggggggg
+                           gggggggggggggggg
+                            gggggggggggggggg
+                             gggggggggggggggg
+                              gggggggggggggggg
+                               gggggggggggggggg
+                                gggggggggggggggg
+                                 gggggggggggggggg
+                                  gggggggggggggggg
+                                   gggggggggggggggg
+                                    gggggggggggggggg
+                                     gggggggggggggggg
+                                      gggggggggggggggg
+                                       gggggggggggggggg
+                                        gggggggggggggggg
+                                         gggggggggggggggg
+                                          gggggggggggggggg
+                                           gggggggggggggggg
+                                            gggggggggggggggg
+                                             gggggggggggggggg
+                                              gggggggggggggggg
+                                               gggggggggggggggg
+                                                gggggggggggggggg
+                                                 gggggggggggggggg
+                                                  gggggggggggggggg
+                                                   gggggggggggggggg
+                                                    gggggggggggggggg
+                                                     gggggggggggggggg
+                                                      gggggggggggggggg
+                                                       gggggggggggggggg
+                                                      gggggggggggggggg
+                                                     gggggggggggggggg
+                                                    gggggggggggggggg
+                                                   gggggggggggggggg
+                                                  gggggggggggggggg
+                                                 gggggggggggggggg
+                                                gggggggggggggggg       
+                                               gggggggggggggggg
+                                              gggggggggggggggg
+                                             gggggggggggggggg
+                                            gggggggggggggggg
+                                           gggggggggggggggg
+                                          gggggggggggggggg
+                                         gggggggggggggggg
+                                        gggggggggggggggg
+                                       gggggggggggggggg
+                                      gggggggggggggggg
+                                     gggggggggggggggg
+                                    gggggggggggggggg
+                                   gggggggggggggggg
+                                  gggggggggggggggg
+                                 gggggggggggggggg
+                                gggggggggggggggg
+                               gggggggggggggggg
+                              gggggggggggggggg
+                             gggggggggggggggg
+                            gggggggggggggggg
+                           gggggggggggggggg
+                          gggggggggggggggg
+                         gggggggggggggggg
+                         gggggggggggggggg
+                         gggggggggggggggg
+                         gggggggggggggggg
+                         gggggggggggggggg
+                         gggggggggggggggg
+                         gggggggggggggggg   
+                         gggggggggggggggg
+                         gggggggggggggggg
+                         gggggggggggggggg
+                         gggggggggggggggg
+                         gggggggggggggggg
+                         gggggggggggggggg
+                         gggggggggggggggg
+                         gggggggggggggggg
+                         gggggggggggggggg
+                         gggggggggggggggg
+                         gggggggggggggggg
+                         gggggggggggggggg
+                         gggggggggggggggg
+                         gggggggggggggggg
+                         gggggggggggggggg
+                         gggggggggggggggg
+                        g gggggggggggggg g
+                       g g gggggggggggg g g
+                      g g g gggggggggg g g g
+                     g g g g gggggggg g g g g
+                    g g g g g gggggg g g g g g
+                   g g g g g g gggg g g g g g g
+                  g g g g g g g gg g g g g g g g  
+                 g g g g g g g g g g g g g g g g 
+                g g g g g g g g g g g g g g g g 
+               g g g g g g g g g g g g g g g g
+              g g g g g g g g g g g g g g g g  
+             g g g g g g g g g g g g g g g g
+            g g g g g g g g g g g g g g g g    
+           g g g g g g g g g g g g g g g g
+          g g g g g g g g g g g g g g g g
+         g g g g g g g g g g g g g g g g
+        g g g g g g g g g g g g g g g g
+       g g g g g g g g g g g g g g g g     
+      g g g g g g g g g g g g g g g g
+     g g g g g g g g g g g g g g g g
+    g g g g g g g g g g g g g g g g
+   g g g g g g g g g g g g g g g g
+  g g g g g g g g g g g g g g g g
+ g g g g g g g g g g g g g g g g
+g g g g g g g g g g g g g g g g
+gg g g g g g g g g g g g g g g
+ggg g g g g g g g g g g g g g
+gggg g g g g g g g g g g g g
+ggggg g g g g g g g g g g g
+gggggg g g g g g g g g g g
+ggggggg g g g g g g g g g
+gggggggg g g g g g g g g
+ggggggggg g g g g g g g
+gggggggggg g g g g g g
+ggggggggggg g g g g g
+gggggggggggg g g g g
+ggggggggggggg g g g
+gggggggggggggg g g
+ggggggggggggggg g
+gggggggggggggggg    
+ggggggggggggggg g
+ggggggggggggggg  g
+ggggggggggggggg   g
+ggggggggggggggg    g
+ggggggggggggggg     g
+ggggggggggggggg      g
+ggggggggggggggg       g
+ggggggggggggggg        g  
+ggggggggggggggg         g
+ggggggggggggggg          g
+ggggggggggggggg           g
+ggggggggggggggg            g
+ggggggggggggggg             g
+ggggggggggggggg              g
+ggggggggggggggg               g
+ggggggggggggggg                g 
+ggggggggggggggg                 g
+ggggggggggggggg                  g
+ggggggggggggggg                   g
+ggggggggggggggg                    g
+ggggggggggggggg                     g
+ggggggggggggggg                      g
+ggggggggggggggg                       g
+ggggggggggggggg                        g
+ggggggggggggggg                         g  
+ggggggggggggggg                          g
+ggggggggggggggg                           g
+ggggggggggggggg                            g
+ggggggggggggggg                             g
+ggggggggggggggg                              g
+ggggggggggggggg                               g
+ggggggggggggggg                                g
+gggggggggggggg g                               g
+gggggggggggggg  g                              g
+gggggggggggggg   g                             g
+gggggggggggggg    g                            g
+gggggggggggggg     g                           g
+gggggggggggggg      g                          g
+gggggggggggggg       g                         g
+gggggggggggggg        g                        g
+gggggggggggggg         g                       g
+gggggggggggggg          g                      g
+gggggggggggggg           g                     g
+gggggggggggggg            g                    g
+gggggggggggggg             g                   g
+gggggggggggggg              g                  g
+gggggggggggggg               g                 g
+gggggggggggggg                g                g
+gggggggggggggg                 g               g   
+gggggggggggggg                  g              g 
+gggggggggggggg                   g             g 
+gggggggggggggg                    g            g 
+gggggggggggggg                     g           g 
+gggggggggggggg                      g          g 
+gggggggggggggg                       g         g 
+gggggggggggggg                        g        g             
+gggggggggggggg                         g       g 
+gggggggggggggg                          g      g 
+gggggggggggggg                           g     g 
+gggggggggggggg                            g    g 
+gggggggggggggg                             g   g 
+gggggggggggggg                              g  g 
+gggggggggggggg                               g g 
+gggggggggggggg                                gg 
+ggggggggggggg g                               gg
+ggggggggggggg  g                              gg
+ggggggggggggg   g                             gg
+ggggggggggggg    g                            gg
+ggggggggggggg     g                           gg
+ggggggggggggg      g                          gg
+ggggggggggggg       g                         gg
+ggggggggggggg        g                        gg
+ggggggggggggg         g                       gg
+ggggggggggggg          g                      gg
+ggggggggggggg           g                     gg
+ggggggggggggg            g                    gg
+ggggggggggggg             g                   gg
+ggggggggggggg              g                  gg
+ggggggggggggg               g                 gg
+ggggggggggggg                g                gg
+ggggggggggggg                 g               gg
+ggggggggggggg                  g              gg
+ggggggggggggg                   g             gg
+ggggggggggggg                    g            gg
+ggggggggggggg                     g           gg
+ggggggggggggg                      g          gg
+ggggggggggggg                       g         gg
+ggggggggggggg                        g        gg
+ggggggggggggg                         g       gg
+ggggggggggggg                          g      gg
+ggggggggggggg                           g     gg
+ggggggggggggg                            g    gg
+ggggggggggggg                             g   gg
+ggggggggggggg                              g  gg
+ggggggggggggg                               g gg
+ggggggggggggg                                ggg
+gggggggggggg g                               ggg
+gggggggggggg  g                              ggg
+gggggggggggg   g                             ggg
+gggggggggggg    g                            ggg
+gggggggggggg     g                           ggg
+gggggggggggg      g                          ggg
+gggggggggggg       g                         ggg
+gggggggggggg        g                        ggg
+gggggggggggg         g                       ggg
+gggggggggggg          g                      ggg
+gggggggggggg           g                     ggg
+gggggggggggg            g                    ggg
+gggggggggggg             g                   ggg
+gggggggggggg              g                  ggg
+gggggggggggg               g                 ggg
+gggggggggggg                g                ggg
+gggggggggggg                 g               ggg
+gggggggggggg                  g              ggg
+gggggggggggg                   g             ggg
+gggggggggggg                    g            ggg
+gggggggggggg                     g           ggg
+gggggggggggg                      g          ggg
+gggggggggggg                       g         ggg
+gggggggggggg                        g        ggg
+gggggggggggg                         g       ggg
+gggggggggggg                          g      ggg
+gggggggggggg                           g     ggg
+gggggggggggg                            g    ggg
+gggggggggggg                             g   ggg
+gggggggggggg                              g  ggg
+gggggggggggg                               g ggg
+gggggggggggg                                gggg
+ggggggggggg g                               gggg
+ggggggggggg  g                              gggg
+ggggggggggg   g                             gggg
+ggggggggggg    g                            gggg
+ggggggggggg     g                           gggg
+ggggggggggg      g                          gggg
+ggggggggggg       g                         gggg
+ggggggggggg        g                        gggg
+ggggggggggg         g                       gggg
+ggggggggggg          g                      gggg
+ggggggggggg           g                     gggg
+ggggggggggg            g                    gggg
+ggggggggggg             g                   gggg
+ggggggggggg              g                  gggg
+ggggggggggg               g                 gggg
+ggggggggggg                g                gggg
+ggggggggggg                 g               gggg
+ggggggggggg                  g              gggg
+ggggggggggg                   g             gggg
+ggggggggggg                    g            gggg
+ggggggggggg                     g           gggg
+ggggggggggg                      g          gggg
+ggggggggggg                       g         gggg
+ggggggggggg                        g        gggg
+ggggggggggg                         g       gggg
+ggggggggggg                          g      gggg
+ggggggggggg                           g     gggg
+ggggggggggg                            g    gggg
+ggggggggggg                             g   gggg
+ggggggggggg                              g  gggg
+ggggggggggg                               g gggg
+ggggggggggg                                ggggg
+gggggggggg g                               ggggg
+gggggggggg  g                              ggggg
+gggggggggg   g                             ggggg
+gggggggggg    g                            ggggg
+gggggggggg     g                           ggggg
+gggggggggg      g                          ggggg
+gggggggggg       g                         ggggg
+gggggggggg        g                        ggggg
+gggggggggg         g                       ggggg
+gggggggggg          g                      ggggg
+gggggggggg           g                     ggggg
+gggggggggg            g                    ggggg
+gggggggggg             g                   ggggg
+gggggggggg              g                  ggggg
+gggggggggg               g                 ggggg
+gggggggggg                g                ggggg
+gggggggggg                 g               ggggg
+gggggggggg                  g              ggggg
+gggggggggg                   g             ggggg
+gggggggggg                    g            ggggg
+gggggggggg                     g           ggggg
+gggggggggg                      g          ggggg
+gggggggggg                       g         ggggg
+gggggggggg                        g        ggggg
+gggggggggg                         g       ggggg
+gggggggggg                          g      ggggg
+gggggggggg                           g     ggggg
+gggggggggg                            g    ggggg
+gggggggggg                             g   ggggg
+gggggggggg                              g  ggggg
+gggggggggg                                ggggg
+gggggggggg                                ggggg
+gggggggggg                                ggggg
+gggggggggg                                ggggg
+gggggggggg                                ggggg
+gggggggggg                                ggggg
+gggggggggg                                ggggg
+gggggggggg                                ggggg
+gggggggggg                                ggggg
+gggggggggg                                ggggg
+gggggggggg                                ggggg
+gggggggggg                                ggggg
+gggggggggg                                ggggg
+gggggggggg                                ggggg
+gggggggggg                                ggggg
+gggggggggg                                ggggg
+gggggggggg                                ggggg
+gggggggggg                                ggggg
 
 
 
 
 
+
+
+
+
+
+
+
+                        
 
 
 
